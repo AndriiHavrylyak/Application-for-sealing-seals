@@ -1,4 +1,4 @@
-# seals_kust_agro
+# seals 
 
 A new Flutter project.
 
