@@ -1,7 +1,6 @@
 # seals 
 
-A new Flutter project.
-
+Application for sealing seals 
 ## Getting Started
 
 Application for sealing seals.
