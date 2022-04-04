@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Application for sealing seals.
+The object for sealing / unsealing is selected, then the seal is selected in the form, a photo of the seal is taken and the data is sent to the database.
+The status of the object changes in the database.
+In this application you can:
+- seal the object
+- unseal the object
+- add seals
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Also in this application the authorization through a database is realized
